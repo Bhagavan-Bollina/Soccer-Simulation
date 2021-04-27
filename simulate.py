@@ -4,6 +4,8 @@ scene.width = 1300
 scene.height = 1000
 scene.autoscale = False
 
+# Initial position of projectile.
+
 launch_pos = vector(-5,0,0) # Initial position of projectile.
 
 angle_label = label(pos=(-8,-1,0), text='Launch angle here.',
